@@ -1,0 +1,4 @@
+DateTime: 08.03.2021 14:05:02, first: 10, second: 20, result: 30, ElapsedTicks: 39, 
+DateTime: 08.03.2021 14:05:24, first: 10, second: 20, result: 30, ElapsedTicks: 43, 
+DateTime: 08.03.2021 14:05:36, first: 10, second: 20, result: 30, ElapsedTicks: 39, 
+DateTime: 08.03.2021 14:06:09, first: 10, second: 20, result: 30, ElapsedTicks: 31807415, 
